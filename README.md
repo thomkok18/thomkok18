@@ -1,16 +1,24 @@
-## Hi there 👋
+# Thom Kok
 
-<!--
-**thomkok18/thomkok18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medior Full Stack Software Engineer
 
-Here are some ideas to get you started:
+## About me
+I am Thom Kok, a Full Stack Software Engineer specializing in Laravel, PHP, JavaScript, TypeScript, and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable and performant web applications with a strong focus on:
+- Software architecture
+- API development
+- Performance optimization
+- CI/CD pipelines
+- Backend & frontend systems
+
+## Projects
+See my portfolio: https://www.thomkok.com
+
+## Links
+- Website: https://www.thomkok.com
+- LinkedIn: https://nl.linkedin.com/in/thomkok
+- GitHub: https://github.com/thomkok18
+
+## Tech stack
+Laravel • PHP • JavaScript • TypeScript • React • MySQL • Docker • CI/CD
