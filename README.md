@@ -1,22 +1,21 @@
-# Thom Kok
+# Thom Kok – Full Stack Software Engineer
 
-Full Stack Software Engineer (Laravel • PHP • React • TypeScript)  
+Full Stack Software Engineer specializing in Laravel, PHP, React and TypeScript  
 Based in the Netherlands
 
 ---
 
 ## About Thom Kok
 
-I am Thom Kok, a Full Stack Software Engineer from the Netherlands, focused on building scalable, maintainable and performant web applications.
+I am Thom Kok, a software engineer focused on building scalable and maintainable web applications.
 
 I specialize in:
-
 - Software architecture and clean code design
 - API development and backend systems
 - Frontend development with React
 - Performance optimization and scalability
 - CI/CD pipelines and modern DevOps workflows
-- Full-stack application development (Laravel + React ecosystems)
+- Full-stack development with Laravel + React
 
 I enjoy building complete end-to-end systems, from backend architecture to frontend user experience.
 
